@@ -1,10 +1,18 @@
 # Hello Kaggle!:wave:
 
-After reading `Kaggle's Official Document` and `Kaggle Guide`, I summarized the definitions of `Kaggle` and basic usage.<br>
-I hope it will help those who are just introduced to `Kaggle` like me.<br>
-If there is anything that needs to be corrected, please leave it in `Issue`.<br>
+I summarized the definitions of `Kaggle` and basic usage after reading `Kaggle's Official Document` and `Kaggle Guide`
+<br>
 
-FYI, the `Hello Kaggle`' document rarely deals with `Python programming` or `machine learning theory` and focuses on `Kagle usage`.<br>
+I hope it will help those who are just introduced to `Kaggle` like me.
+<br>
+
+If there is anything that needs to be corrected, please leave it in `Issue`.
+<br>
+
+FYI, the `Hello Kaggle`' document rarely deals with `Python programming` or `machine learning theory`<br>
+and focuses on `Kaggle usage`.
+<br>
+
 For those of you who are looking for `programming`, `data science`, and `machine learning materials`, I'll leave you with some links that I've been helped with.<br>
 
 - [DATA SCIENCE ROADMAP 2020](https://medium.com/@ArtisOne/data-science-roadmap-2020-b256fb948404)
@@ -19,7 +27,7 @@ For those of you who are looking for `programming`, `data science`, and `machine
    - [Kaggle Service and Features](#kaggle-service-and-features)
    - [Required Kaggling Knowledge](#required-kaggling-knowledge)
    - [Prepare before becoming Kaggler](#prepare-before-becoming-kaggler)
-     <br>
+<br>
 
 2. [How is Kaggle used?](#how-is-kaggle-used)
    - [Infrastructure for data analytics](#infrastructure-for-data-analytics)
@@ -27,7 +35,7 @@ For those of you who are looking for `programming`, `data science`, and `machine
    - [Dataset](#dataset)
    - [Company Training](#company-training)
    - [Discussion](#discussion)
-     <br>
+<br>
 
 3. [Kaggle Competition?](#kaggle-competition)
    - [Featured, the most common Competition](#featured-the-most-common-competition)
@@ -37,7 +45,7 @@ For those of you who are looking for `programming`, `data science`, and `machine
    - [Recruitment for job opportunities](#recruitment-for-job-opportunities)
    - [Annual Competition held regularly](#annual-competition-held-regularly)
    - [Analytics to effectively explain the results](#analytics-to-effectively-explain-the-results)
-     <br>
+<br>
 
 4. [Getting Started with Kaggle](#getting-started-with-kaggle)
    - [Sign Up](#sign-up)
@@ -46,22 +54,22 @@ For those of you who are looking for `programming`, `data science`, and `machine
    - [Medal](#medal)
    - [Being Contributor](#being-contributor)
    - [Kaggle Rankings](#wait)
-     <br>
+<br>
 
 5. [Getting to know Notebook](#getting-to-know-notebook)
-   - [Introduction to Notebook](#[lease-re-read-here-for-a-brief-introduction-to-your-notebook)
+   - [Introduction to Notebook](#please-re-read-here-for-a-brief-introduction-to-your-notebook)
    - [What can you do with your Notebook?](#what-can-you-do-with-your-notebook)
    - [Create and use Notebook](#create-and-use-notebook)
    - [Various settings for Notesbook](#various-settings-for-notebook)
    - [How to import data from Notebook](#how-to-import-data-from-notebook)
    - [Use external packages in Notebook](#use-external-packages-in-notebook)
-   - [Use Source Code from Dataset  in Notebook](#use-source-code-from-dataset-in-notebook)
-     <br>
+   - [Use Source Code from Dataset  in Notebook](#use-source-code-from-dataset--in-notebook)
+<br>
 
 6. [Competitions and Notebooks](#competitions-and-notebooks)
    - [What else can the Notebook be used for besides data analysis Competition?](#what-else-can-the-notebook-be-used-for-besides-data-analysis-competition)
    - [How to handle Data Files to use in the Competition Notebook?](#how-to-handle-data-file-to-use-in-competition-notebook)
-     <br>
+<br>
 
 7. [Competitions Progress Flow](#competitions-progress-flow)
    - [Baseline implementing the general purpose algorithm](#baseline-implementing-the-general-purpose-algorithm)
@@ -69,16 +77,16 @@ For those of you who are looking for `programming`, `data science`, and `machine
    - [Fork Notebook](#fork-notebook)
    - [Merge, Blending, Stacking, Ensemble Notebook](#merge-blending-stacking-ensemble-notebook)
    - [Conclusion of Competitions Progress Flow](#conclusion-of-competitions-progress-flow)
-     <br>
+<br>
 
 8. [Rule of Competitions](#rule-of-competitions)
    - [What rules should I check?](#what-rules-should-i-check)
-     <br>
+<br>
 
 9. [Flow of Technology in Kaggle](#flow-of-technology-in-kaggle)
    - [Exploring in Closed Competition](#exploring-in-closed-competition)
    - [Winner Solutions at a Glance](#winner-solutions-at-a-glance)
-     <br>
+<br>
 
 10. [Kaggle Dataset and API](#kaggle-dataset-and-api)
     - [Use Public Dataset](#use-public-dataset)
@@ -86,10 +94,10 @@ For those of you who are looking for `programming`, `data science`, and `machine
     - [Kaggle API](#kaggle-api)
     - [Install Kaggle API](#install-kaggle-api)
     - [Use Kaggle API](#use-kaggle-api)
-      <br>
+<br>
 
-11. [Ending Greeting] [#Ending Greeting]
-    <br>
+11. [Finished!](#finished)
+<br>
 
 ***
 
@@ -549,8 +557,8 @@ Before I explain how to become a `Contributor`, I will explain about `Kaggle Tie
   ```python
   import sys
   sys.path.append("../input/example-dataset/hello_kaggle")
-```
-  <br>
+  ```
+<br>
 
 ***
 
@@ -625,7 +633,7 @@ Before I explain how to become a `Contributor`, I will explain about `Kaggle Tie
 ### `Merge, Blending, Stacking, Ensemble Notebook`
 - `Notebook` with words such as `Merge`, `Blending`, `Stacking`, and `Ensemble`.
 - As the name suggests, it means `Notebook` combining several `Notebooks`.
-- 예시: ![image](https://user-images.githubusercontent.com/61633137/103759052-6f523480-5056-11eb-8d15-17e83fdb492d.png)
+- `Example`: ![image](https://user-images.githubusercontent.com/61633137/103759052-6f523480-5056-11eb-8d15-17e83fdb492d.png)
 <br>
 
 ### Conclusion of Competitions Progress Flow
