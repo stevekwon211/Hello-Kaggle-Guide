@@ -18,7 +18,7 @@ For those of you who are looking for `programming`, `data science`, and `machine
 - [DATA SCIENCE ROADMAP 2020](https://medium.com/@ArtisOne/data-science-roadmap-2020-b256fb948404)
 - [data engineer roadmap by datastacktv](https://github.com/datastacktv/data-engineer-roadmap)
 - [My Data Science Online Learning Journey on Croursera](https://www.kdnuggets.com/2020/11/data-science-online-learning-journey-coursera.html)
-  <br>
+<br>
 
 ## Table of contents
 
@@ -112,13 +112,13 @@ For those of you who are looking for `programming`, `data science`, and `machine
 
 - __`Artificial Intelligence, Machine Learning Boom`__ has continued to increase the number of participants and was acquired by Google's parent company __'Alphabet'__ in 2017.
 - Since the Alphabet's acquisition, `Kaggle` has become a critical site for data scientists and engineers, not just a platform.
-  <br>
+<br>
 
 ### `Kaggler`? `Kaggling`?
 
 - Like Google searches __`Googling`__, >
   Kaggle's users are __`Kaggler`__ or __`Kaggling`__ to participate in the Competition.
-  <br>
+<br>
 
 ### Kaggle Service and Features
 
@@ -126,14 +126,14 @@ For those of you who are looking for `programming`, `data science`, and `machine
   - `Jobs Service` was originally provided, but the service ended on December 22, 2020.<br>
     Simply put, it's because the number of users is small.<br>
     For more information, read it here at https://www.kaggle.com/jobs-board-closed.
-    <br>
+<br>
 
 - __[`Course`](https://www.kaggle.com/learn/overview)__
   ![image](https://user-images.githubusercontent.com/61633137/103596261-e0072d00-4f40-11eb-9e50-2315e734d267.png)
   - Provides practical and practical lectures on `Python`, `machine learning` and `visualization`, and so on.
   - `Kaggle's course` can be quite useful if you haven't learned it step by step or if you've studied an old course.
   - All lectures are also available in `English`, `free` and a `certificate` of completion.
-    <br>
+<br>
 
 __`English`__
   - Data scientists from all over the world gather together and use `English` by default.
@@ -217,6 +217,7 @@ __`English`__
 - If you don't know something, you can ask in __`Site Forums`__, and __`Competition`__ of the __`Communities`__.<br>
 - `Communities`
   ![image](https://user-images.githubusercontent.com/61633137/103608822-9548dd80-4f5f-11eb-8a55-626a9a0015bb.png)
+<br>
 
 - `Site Forums`
   ![image](https://user-images.githubusercontent.com/61633137/103608932-f2dd2a00-4f5f-11eb-8d5d-6f1761e61a1f.png)
@@ -374,11 +375,11 @@ Before I explain how to become a `Contributor`, I will explain about `Kaggle Tie
 - If you go in, you can see the menu below in the middle of the screen.<br>
 ![image](https://user-images.githubusercontent.com/61633137/103619281-cbdd2300-4f74-11eb-8c00-840110e018ce.png)
 - Click on 'Notes' here and take a look at other people's notebooks.
-  <br>
+<br>
   
 - Pick one notebook and open it in the upper right corner ![image](https://user-images.githubusercontent.com/61633137/103619428-12cb1880-4f75-11eb-9ec9-435c40a13160.png)
   You'll see a button like that. Click this button to copy the notebook.
-  <br>
+<br>
   
 - Once the copy is complete, click `Save Version` at the upper right corner.
   - `Version Name`: You can enter the name.
@@ -491,7 +492,7 @@ Before I explain how to become a `Contributor`, I will explain about `Kaggle Tie
   - ![image](https://user-images.githubusercontent.com/61633137/103721476-17450f00-5011-11eb-92ba-84e80c437c8d.png)/![image](https://user-images.githubusercontent.com/61633137/103721509-2deb6600-5011-11eb-88ed-979cd05bbb7b.png) : Hides or indicates that cell.<br>
 	- ![image](https://user-images.githubusercontent.com/61633137/103721551-48254400-5011-11eb-98ef-66aaa3e6a3c8.png) : provides the following additional features:<br>
   ![image](https://user-images.githubusercontent.com/61633137/103721556-49ef0780-5011-11eb-8abb-45061ffa7de0.png)
-    <br>
+  <br>
 
 ### Various settings for `Notebook` 
 - Set `Public` & `Private`
@@ -657,7 +658,7 @@ Before I explain how to become a `Contributor`, I will explain about `Kaggle Tie
 - 3. `One-person score check limit` : If you can check the score frequently by submitting a result file as you change the data one by one, the competition won't get any meaningful results, so there is usually a limit to the number of results checked.<br>
 - 4. `Notebook Only Competition` : Submit results using `Kaggle Notebook` only.<br>
   If only `Kaggle Notebook` is used, `Kaggler` is more likely to share `Notebook`, and all participants can easily find good ideas by viewing `shared Notebook`. <br>Also, all participants have the same computing resources, which can help address inequality between those who use personal workstations and those who do not.  
-  <br>
+<br>
 
 ***
 
@@ -737,3 +738,4 @@ I studied __`Python`__ for the first time in April 2020 and was unable to concen
 That's why I couldn't study data science in depth, and I still need more knowledge to understand it.<br>
 Now finally I'm stepping into __`machine learning`__ and __`Kaggle`__.<br>
 At this moment to write __`Hello Kaggle!`__, I've improved my understanding of __`Kaggle`__ and I'm going to start with __`Getting Started Competition`__.<br>Also eager to keep up with the latest technology by looking at other outstanding __`Kaggler's Notebook`__.<br>Hopefully, everyone who reads __`Hello Kaggle!`__ will get the best time in 2021. Let's Keep Going!
+<br>
