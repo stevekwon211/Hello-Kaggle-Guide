@@ -106,7 +106,7 @@ For those of you who are looking for `programming`, `data science`, and `machine
 ## What is Kaggle?
 
 - __`Kaggle`__ is the platform that hosts the Data Analysis Competition.
-- It is common for competitions to be hosted by providing data that needs to be analyzed for the company's `research challenges, key services`.
+- It is common for competitions to be hosted by providing data that needs to be analyzed for the company's `research challenges, key services`.<br>
   ![Untitled Diagram (1)](https://user-images.githubusercontent.com/61633137/103905060-7a35c380-5141-11eb-9cd8-7cd93b64ac96.png)
   <br>
 
